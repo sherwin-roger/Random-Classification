@@ -21,8 +21,8 @@ To write a python program to perform random classification.
 ```
 /*
 Program to implement random classification.
-Developed by   : Marinto Richee J
-Register Number : 212220230031
+Developed by   : Sherwin Roger R.D
+Register Number : 212220230046
 */
 import matplotlib.pyplot as plt
 from sklearn import datasets
